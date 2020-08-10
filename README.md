@@ -1,4 +1,9 @@
-### Hi there, I'm Logan
+### Hi there, I'm Logan King ⭐
+
+- I'm interested in: Computer Engineering, Distributed Ledger, and Machine Learning
+- My ultimate goals are: to help enable democracy by building distributed trustless systems, to push forward the capabilities of the human race by creating or contributing to state of the art open source technologies, to make cool stuff, and to make good friends along the way
+- In my freetime I like to: build cool projects, play games with friends, watch anime, hang out at the beach, and go on hikes.
+
  
 ### Languages:
 
@@ -36,14 +41,4 @@ Jupyter Notebook
 
 
 
-
-
-
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SleepingFox88&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<img align="left" alt="" width="26px" src="" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SleepingFox88&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
