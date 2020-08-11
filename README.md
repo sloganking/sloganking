@@ -41,6 +41,10 @@
 <!-- Jupyter Notebook -->
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
+
+<!-- Truffle -->
+<img align="left" alt="Truffle" width="26px" src="https://www.trufflesuite.com/img/truffle-logomark.svg" />
+
 <br/>
 <br/>
 
