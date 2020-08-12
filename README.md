@@ -6,8 +6,8 @@ I'm interested in:
 - Machine Learning
 
 My ultimate goals are:
-- to help enable democracy by building distributed trustless systems
-- to create or contribute to state of the art open source technologies
+- to enable democracy by building distributed trustless systems
+- to contribute to state of the art open source technologies
 - to make good friends along the way
 
 In my freetime I like to:
