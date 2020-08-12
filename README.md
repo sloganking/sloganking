@@ -8,13 +8,13 @@ I'm interested in:
 My ultimate goals are:
 - to help enable democracy by building distributed trustless systems
 - to create or contribute to state of the art open source technologies
-- to make cool stuff, and to make good friends along the way
+- to make good friends along the way
 
 In my freetime I like to:
 - build cool projects
 - play games with friends
 - hang out at the beach
-- go on hikes.
+- go on hikes
 
  
 ### Languages:
