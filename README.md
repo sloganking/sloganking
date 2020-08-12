@@ -2,7 +2,7 @@
 
 - I'm interested in: Computer Engineering, Distributed Ledger, and Machine Learning
 - My ultimate goals are: to help enable democracy by building distributed trustless systems, to push forward the capabilities of the human race by creating or contributing to state of the art open source technologies, to make cool stuff, and to make good friends along the way
-- In my freetime I like to: build cool projects, play games with friends, watch anime, hang out at the beach, and go on hikes.
+- In my freetime I like to: build cool projects, play games with friends, hang out at the beach, and go on hikes.
 
  
 ### Languages:
@@ -41,9 +41,11 @@
 <!-- Jupyter Notebook -->
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
-
 <!-- Truffle -->
 <img align="left" alt="Truffle" width="26px" src="https://www.trufflesuite.com/img/truffle-logomark.svg" />
+
+<!-- NPM -->
+<img align="left" alt="NPM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" />
 
 <br/>
 <br/>
