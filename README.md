@@ -2,7 +2,7 @@
 
 I'm interested in:
 - Computer Engineering
-- Distributed Ledger
+- Distributed Ledger Technology
 - Machine Learning
 
 My ultimate goals are:
