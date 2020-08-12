@@ -1,8 +1,20 @@
 ### Hi there, I'm Logan King ⭐
 
-- I'm interested in: Computer Engineering, Distributed Ledger, and Machine Learning
-- My ultimate goals are: to help enable democracy by building distributed trustless systems, to push forward the capabilities of the human race by creating or contributing to state of the art open source technologies, to make cool stuff, and to make good friends along the way
-- In my freetime I like to: build cool projects, play games with friends, hang out at the beach, and go on hikes.
+I'm interested in:
+- Computer Engineering
+- Distributed Ledger
+- Machine Learning
+
+My ultimate goals are:
+- to help enable democracy by building distributed trustless systems
+- to create or contribute to state of the art open source technologies
+- to make cool stuff, and to make good friends along the way
+
+In my freetime I like to:
+- build cool projects
+- play games with friends
+- hang out at the beach
+- go on hikes.
 
  
 ### Languages:
