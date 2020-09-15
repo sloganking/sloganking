@@ -42,10 +42,10 @@ In my freetime I like to:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <!-- Github -->
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" />
 
 <!-- KiCad -->
-<img align="left" alt="KiCad" width="26px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png" />
+<img align="left" alt="KiCad" width="26px" src="https://avatars1.githubusercontent.com/u/3374914?s=200&v=4" />
 
 <!-- Linux -->
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
@@ -54,10 +54,10 @@ In my freetime I like to:
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
 <!-- Truffle -->
-<img align="left" alt="Truffle" width="26px" src="https://www.trufflesuite.com/img/truffle-logomark.svg" />
+<img align="left" alt="Truffle" width="26px" src="https://camo.githubusercontent.com/61ae067226f7536b3c7f29430d7537ec64f429c3/68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667" />
 
 <!-- NPM -->
-<img align="left" alt="NPM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" />
+<img align="left" alt="NPM" width="26px" src="https://avatars0.githubusercontent.com/u/6078720?s=200&v=4" />
 
 <br/>
 <br/>
