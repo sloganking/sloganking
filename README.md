@@ -6,15 +6,15 @@ I'm interested in:
 - Machine Learning
 
 My ultimate goals are:
-- to enable democracy by building distributed trustless systems
-- to contribute to state of the art open source technologies
-- to make good friends along the way
+- To enable democracy by building distributed trustless systems
+- To contribute to state of the art open source technologies
+- To make good friends along the way
 
 In my freetime I like to:
-- build cool projects
-- play games with friends
-- hang out at the beach
-- go on hikes
+- Build cool projects
+- Play games with friends
+- Hang out at the beach
+- Go on hikes
 
  
 ### Languages:
