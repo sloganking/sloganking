@@ -1,22 +1,3 @@
-### Hi there, I'm Logan King ⭐
-
-I'm interested in:
-- Computer Engineering
-- Distributed Ledger Technology
-- Machine Learning
-
-My ultimate goals are:
-- To enable democracy by building distributed trustless systems
-- To contribute to state of the art open source technologies
-- To make good friends along the way
-
-In my freetime I like to:
-- Build cool projects
-- Play games with friends
-- Hang out at the beach
-- Go on hikes
-
- 
 ### Languages:
 
 <!-- Python -->
@@ -28,11 +9,28 @@ In my freetime I like to:
 <!-- Lua -->
 <img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
 
+<!-- Rust -->
+<img align="left" alt="Lua" width="26px" src="https://avatars.githubusercontent.com/u/83618382?s=200&v=4" />
+
 <!-- Solidity -->
 <img align="left" alt="Solidity" width="26px" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg" />
 
 <!-- Assembly -->
 <img align="left" alt="Assembly" width="26px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
+
+<!-- C -->
+<img align="left" alt="Assembly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+
+<!-- Java -->
+<img align="left" alt="Assembly" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-UICquv1dBMU%2FXGYIXqyhKeI%2FAAAAAAAAR8M%2FEvjt3ADUYEYqwDHPLhl_lK5_FTrb_VZpgCLcBGAs%2Fs1600%2FJava.png&f=1&nofb=1" />
+
+<!-- TypeScript -->
+<img align="left" alt="Assembly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+
+<!-- JavaScript -->
+<img align="left" alt="Assembly" width="26px" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" />
+
+
 
 <br/>
 
