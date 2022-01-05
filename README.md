@@ -49,7 +49,7 @@
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
 <!-- Jupyter Notebook -->
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
+<!-- img align="left" alt="Jupyter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" /-->
 
 <!-- Truffle -->
 <img align="left" alt="Truffle" width="26px" src="https://camo.githubusercontent.com/61ae067226f7536b3c7f29430d7537ec64f429c3/68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667" />
