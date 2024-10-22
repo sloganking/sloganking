@@ -1,4 +1,4 @@
-# Check out my [visual portfolio](https://github.com/sloganking/Visual-Portfolio).
+# ✨Check out my [visual portfolio](https://github.com/sloganking/Visual-Portfolio).✨
 
 https://github.com/user-attachments/assets/968b4338-923b-441a-8df2-23c2a3be8f4a
 
